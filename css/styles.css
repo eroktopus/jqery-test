@@ -1,0 +1,24 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    /* Sets the font size to 16px */
+    line-height: 1.6;
+    /* Sets the line-height to 1.6 */
+    background-color: #474b48;
+}
+.strike {
+    text-decoration: line-through;
+}
+
+.notification {
+    color: chartreuse;
+}
+
+.bright-red {
+    color: crimson;
+}
+
+.delete {
+    display: none;
+}
